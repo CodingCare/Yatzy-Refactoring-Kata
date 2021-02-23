@@ -1,0 +1,6 @@
+# Fichiers spécifiques à IntelliJ
+/.idea/
+/*.iml
+
+# Maven
+/target/
